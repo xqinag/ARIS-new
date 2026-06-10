@@ -1,6 +1,13 @@
 # Auto-claude-code-research-in-sleep (ARIS ⚔️🌙)
 
 <p align="center">
+  <img src="https://img.shields.io/github/last-commit/xqinag/ARIS-new?style=flat-square&color=blue" alt="last commit"/>
+  <img src="https://img.shields.io/github/repo-size/xqinag/ARIS-new?style=flat-square&color=informational" alt="repo size"/>
+  <img src="https://img.shields.io/github/license/xqinag/ARIS-new?style=flat-square" alt="license"/>
+  <img src="https://img.shields.io/badge/language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python"/>
+</p>
+
+<p align="center">
   <a href="https://huggingface.co/papers/2605.03042">
     <img src="docs/hf_daily_paper_1.svg" alt="Hugging Face Daily Paper · #1 Paper of the Day" width="360">
   </a>
